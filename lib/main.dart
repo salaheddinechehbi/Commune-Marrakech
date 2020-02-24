@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Commune Marrakech',
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.white,
-        primaryColor: Colors.white,
+        primaryColor: Color(0xFFecf0f1),
         //primarySwatch: Colors.blue,
       ),
       home: SideBarLayout() ,
